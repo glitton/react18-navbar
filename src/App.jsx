@@ -1,4 +1,4 @@
-import Navbar from "./Navbar-fixed";
+import Navbar from "./Navbar";
 
 const App = () => {
   return (

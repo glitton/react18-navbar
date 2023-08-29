@@ -7,6 +7,7 @@ const Navbar = () => {
   const [showLinks, setShowLinks] = useState(false);
 
   const toggleLinks = () => {
+    console.log("hola");
     setShowLinks(!showLinks);
   };
   return (
